@@ -1,2 +1,6 @@
 const message: string = "Hello World Typescript"
-console.log(message)
+const type: string ="Try another one"
+var num = 2
+var nn = 3
+console.log(message + " " + type)
+console.log(num+nn)
